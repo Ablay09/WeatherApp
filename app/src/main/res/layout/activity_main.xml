@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/bg_gradient"
     android:padding="25dp"
-    tools:context=".MainActivity">
+    tools:context=".main_activity.MainActivity">
 
     <AutoCompleteTextView
         android:id="@+id/editTextCityName"
